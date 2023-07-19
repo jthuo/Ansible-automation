@@ -3,4 +3,6 @@ client_image: "jthuo/yolo-client-g3"
 backend_image: "jthuo/yolo-backend-g3"
 app_folder: "/opt/yolo"
 file_folder: "/Users/jmthuo/Documents/devOpsGroupIps/yolo"
+dest_folder: "/Users/jmthuo/Documents/devOpsGroupIps/week9/yolo"
+
 
