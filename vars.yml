@@ -1,0 +1,7 @@
+# vars.yml
+client_image: "jthuo/yolo-frontend"
+backend_image: "jthuo/yolo-backend"
+app_folder: "/opt/yolo"
+file_folder: "/Users/jmthuo/Documents/devOpsGroupIps/yolo"
+dest_folder: "/Users/jmthuo/Documents/devOpsGroupIps/week9/Yolo_App"
+terrafom_folder: "./Stage_two/"
