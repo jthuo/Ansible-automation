@@ -22,7 +22,7 @@
 ## Step 2 
 Provision an ubuntu virtual machine using ansible and  
 Clone and deploy the yolo application in docker desktop.
-   ## Deploying the Yolo app
+   ## Deploying the Yolo
    As has been done in the main branch
 
   ## Provision the ubuntu virtual machine.
