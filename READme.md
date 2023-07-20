@@ -4,8 +4,7 @@
 
 #### Contributors
 
-- Francis Warui Kinyuru
-
+James Maina Thuo
 February, 2023
 
 ## website/Live Site

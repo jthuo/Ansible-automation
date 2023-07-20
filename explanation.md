@@ -1,4 +1,4 @@
-## Provision a ubuntu using vagrant and deploy Yolo using ansible
+## Provision a geerlingguy/ubuntu2004 using vagrant and deploy Yolo using ansible
 
 ## Implementation plan
 
@@ -9,7 +9,7 @@
   4. Install Ansible.
 
 ## Step 1
- Provision a ubuntu using vagrant using ansible and terraform.
+ Provision a geerlingguy/ubuntu2004 using vagrant using ansible and terraform.
 
  - create a new branch by the name Stage_two from the main branch.
  - Create a new directory called Stage_two.
